@@ -1,0 +1,7 @@
+<?php
+// datastore=sitecheck;
+// created_on=1431936004;
+// updated_on=1450333278;
+exit(0);
+?>
+scan_results:{"SCAN":{"SITE":["http:\/\/www.rolox.com"],"DOMAIN":["www.rolox.com"],"IP":["166.78.61.85"]},"SYSTEM":{"NOTICE":["Running on: Apache"]},"RECOMMENDATIONS":[["Security Header: X-Frame-Options","We did not find the recommended security header for ClickJacking Protection on your site. ","http:\/\/kb.sucuri.net\/warnings\/hardening\/headers-x-frame-clickjacking"]],"BLACKLIST":{"INFO":[["Domain clean by Google Safe Browsing: rolox.com","http:\/\/safebrowsing.clients.google.com\/safebrowsing\/diagnostic?site=rolox.com"],["Domain clean by Norton Safe Web: rolox.com","http:\/\/safeweb.norton.com\/report\/show?url=rolox.com"],["Domain clean on Phish tank: rolox.com","http:\/\/www.phishtank.com\/"],["Domain clean on the Opera browser: rolox.com","http:\/\/opera.com\/"],["Domain clean by SiteAdvisor: rolox.com","http:\/\/www.siteadvisor.com\/sites\/rolox.com"],["Domain clean by the Sucuri Malware Labs blacklist: rolox.com","http:\/\/labs.sucuri.net\/?blacklist=rolox.com"],["Domain clean on SpamHaus DBL: rolox.com","http:\/\/www.spamhaus.org\/query\/domain\/rolox.com"],["Domain clean by Bitdefender: rolox.com","http:\/\/trafficlight.bitdefender.com\/info?url=rolox.com"],["Domain clean on Yandex (via Sophos): rolox.com","http:\/\/www.yandex.com\/infected?url=rolox.com&amp;l10n=en"],["Domain clean by ESET: rolox.com","http:\/\/labs.sucuri.net\/?eset"]]}}
